@@ -1,6 +1,6 @@
 😎 Hi, I'm Inigo  
 🏫 I'm currently a PhD student  
-🤖 I work on AI systems for processing large scale astronomical data  
+🤖 I build AI systems for processing large scale astronomical data  
 💡 My main focus is on self-supervised and semi-supervised learning  
 ⛰️ Find out more about me on my [personal website](https://inigoval.github.io/)  
 
