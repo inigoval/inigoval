@@ -1,8 +1,7 @@
 😎 Hi, I'm Inigo  
-🏫 I'm currently a PhD student  
-🤖 I build AI systems for processing large scale astronomical data  
-💡 My main focus is on self-supervised and semi-supervised learning  
-⛰️ Find out more about me on my [personal website](https://inigoval.github.io/)  
+🏫 I'm currently ~~a PhD student~~ interning as an Applied Scientist at Amazon AGI
+🤖 I like solving problems with AI
+💡 My research interests include speech recognition, representation learning, applied computer vision and large language models
 
 <!--
 **inigoval/inigoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
