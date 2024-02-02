@@ -1,7 +1,7 @@
 😎 Hi, I'm Inigo  
 🏫 I'm currently ~~a PhD student~~ an Applied Scientist Intern at Amazon AGI \
 🤖 I like solving problems with AI \
-💡 My research interests include automated speech recognition, representation learning, applied computer vision, large language models, multi-modal modeling
+💡 My research interests include automated speech recognition, applied computer vision, large language models, foundation models
 
 <!--
 **inigoval/inigoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
