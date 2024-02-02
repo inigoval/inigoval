@@ -1,4 +1,4 @@
-😎 Hi, I'm Inigo  
+⛰️ Hi, I'm Inigo  
 🏫 I'm currently ~~a PhD student~~ an Applied Scientist Intern at Amazon AGI \
 🤖 I like solving problems with AI \
 💡 My research interests include automated speech recognition, applied computer vision, large language models, foundation models
