@@ -1,5 +1,5 @@
 ⛰️ Hi, I'm Inigo  
-🏫 I'm currently an Applied Scientist Intern at Wayve \
+🏫 I'm currently an Applied Scientist at Wayve \
 🤖 I like solving problems and building useful stuff with AI\
 💡 My research interests include autonomous driving, large language models, applied computer vision, speech science, foundation models.
 <!--
