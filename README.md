@@ -1,7 +1,7 @@
 ⛰️ Hi, I'm Inigo  
 :wrench: I'm currently an Applied Scientist in the Behaviour & Language team at Wayve \
 🤖 I like solving problems and building useful stuff with AI \
-💡 My research interests include autonomous driving, large language models, applied computer vision, speech science, foundation models.
+💡 My research interests include vision, speech, language, foundation models and autonomous driving.
 <!--
 **inigoval/inigoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
