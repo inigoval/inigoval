@@ -1,7 +1,4 @@
-⛰️ Hi, I'm Inigo  
-:wrench: I'm currently an Applied Scientist in the Wayve Foundation Model team at Wayve \
-🤖 I like solving problems and building useful stuff with AI \
-💡 My research interests include vision, speech, language, foundation models and autonomous driving.
+:wrench: Applied Scientist in the Wayve Foundation Model team at Wayve \
 <!--
 **inigoval/inigoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
