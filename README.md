@@ -1,4 +1,4 @@
-:wrench: Applied Scientist in the Wayve Foundation Model team at Wayve \
+🏄 Applied Scientist at Wayve \
 <!--
 **inigoval/inigoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
