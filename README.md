@@ -1,6 +1,4 @@
 `applied scientist @ wayve` 🏄‍♂️
-
-Otherwise somewhere in the 🌲 on two wheels
 <!--
 **inigoval/inigoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
