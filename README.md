@@ -1,3 +1,3 @@
 `applied scientist @ wayve` 🏄‍♂️
 
-`if not responding... probably in the 🌲🌲🌲⛰️⛰️🌲🌲🌲`
+`if not responding... probably in the 🌲🌲🦌🌲⛰️⛰️🌲🌲🐻🌲`
