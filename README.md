@@ -1,3 +1,5 @@
 `applied scientist @ wayve` 🏄‍♂️
 
+`building a multimodal foundation model for embodied AI`
+
 `if not responding... probably 🌲🌲🦌🌲⛰️⛰️🚴🌲🌲🐻🌲`
