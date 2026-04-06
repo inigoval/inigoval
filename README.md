@@ -2,4 +2,4 @@
 
 `building a multimodal foundation model for embodied ai`
 
-`if not responding... probably 🌲🌲🦌🌲⛰️⛰️🚴🌲🌲🐻🌲`
+`if not responding... probably 🌲🌲🦌🌲⛰️⛰️🏕️🌲🌲🐻🌲`
